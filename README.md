@@ -16,7 +16,7 @@ Clone the repo to a local directory.
 
 ## Usage
 
-Edit system size, temperature set, and other simulation parameters in ```config.txt```.  In a bash shell, run ```make``` and then ```./parallel_tempering```.  1.1e6 sweep-exchange updates takes about 3.5min on a 2.7 GHz Intel Core i7 laptop.
+Edit system size, temperature set, and other simulation parameters in ```config.txt```.  In a bash shell, run ```make``` and then ```./parallel_tempering```.  1.1e6 sweep-exchange updates take about 3.5min on a 2.7 GHz Intel Core i7 laptop.
 
 ## References
 
