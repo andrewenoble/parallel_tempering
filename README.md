@@ -1,6 +1,6 @@
 # parallel_tempering
 
-C implementation of parallel tempering for the 2D Ferromagnetic Ising Model.  Acceptance probabilities, A(T), are estimated given a temperature set.  In the ```results``` folder, ```config_geo.txt``` and ```config_opt.txt``` are configuration files specifying "geometric" and "optimized" temperature sets.  Simulation output includes a plot A(T) vs. T similar to Fig. 5 in [Katzgraber, et al., 2006](https://arxiv.org/abs/cond-mat/0602085): 
+C implementation of parallel tempering for the 2D Ferromagnetic Ising Model.  Acceptance probabilities, A(T), are estimated given a temperature set.  In the ```results``` folder, ```config_geo.txt``` and ```config_opt.txt``` are configuration files specifying "geometric" and "optimized" temperature sets.  Simulation output includes a plot of A(T) vs. T similar to Fig. 5 in [Katzgraber, et al., 2006](https://arxiv.org/abs/cond-mat/0602085): 
 
 <img src="results/fig5_reproduction.png" width="600px"/>
 
