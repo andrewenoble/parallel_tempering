@@ -1,7 +1,8 @@
 # parallel_tempering
 
 C implementation of parallel tempering for the 2D Ferromagnetic Ising Model.  Acceptance probabilities, A(T), are estimated given a temperature set.  Folder ```results``` includes example ```config_*.txt``` and ```output_*.txt``` files given geometric and optimized temperature sets, generating results similar to Fig. 5 in [Katzgraber, et al., 2006](https://arxiv.org/abs/cond-mat/0602085): 
-![](results/fig5_reproduction.png =100x) 
+
+![fig5_reproduction](results/fig5_reproduction.png =100x) 
 
 ## Requirements
 
