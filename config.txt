@@ -1,0 +1,38 @@
+# L 
+20
+
+# Number of Burnin Sweeps
+100000
+
+# Number of Sweeps
+1000000
+
+# Number of Sweeps per Sample
+1000
+
+# Temperature Set Size
+21
+
+# Temperature Set
+0.10 
+1.40
+1.65
+1.85
+2.04
+2.18
+2.26
+2.27
+2.28
+2.29
+2.32
+2.37
+2.44
+2.55
+2.70
+2.90
+3.25
+3.70
+4.60
+6.20
+10.0
+
