@@ -2,10 +2,10 @@
 20
 
 # Number of Burnin Sweeps
-10000
+100000
 
 # Number of Sweeps
-100000
+1000000
 
 # Number of Sweeps per Sample
 100

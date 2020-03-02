@@ -2,13 +2,13 @@
 20
 
 # Number of Burnin Sweeps
-10000
-
-# Number of Sweeps
 100000
 
+# Number of Sweeps
+1000000
+
 # Number of Sweeps per Sample
-100
+1000
 
 # Temperature Set Size
 21
